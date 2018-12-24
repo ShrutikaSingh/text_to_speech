@@ -1,0 +1,6 @@
+>sudo pip install SpeechRecognisition
+>sudo apt-get install portaudio19.dev
+>python3 ssy.py
+
+
+>speech_recognition--help
